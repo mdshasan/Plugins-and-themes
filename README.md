@@ -7,7 +7,7 @@ A curated collection of custom WordPress themes, plugins, and internal client ma
 Projects Overview
 
 1. CoreFlex (WordPress Approved)
-Package: coreflex.zip (https://github.com/mdshasan/Plugins-and-themes/blob/main/coreflex.zip](https://github.com/mdshasan/Plugins-and-themes/blob/main/coreflex.zip)](https://wordpress.org/themes/coreflex/)
+Package: coreflex.zip (https://wordpress.org/themes/coreflex/)
 
 A lightweight, high-performance WordPress theme tailored for modern business sites. Built adhering strictly to the WordPress template hierarchy, it features comprehensive Customizer integration, dynamic widget areas, responsive navigation, and out-of-the-box WooCommerce compatibility.
 
