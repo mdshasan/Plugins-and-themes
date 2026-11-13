@@ -13,28 +13,15 @@ A lightweight, high-performance WordPress theme tailored for modern business sit
 
 Stack: WordPress, PHP, HTML5, CSS3, JavaScript
 
-2. Client Onboarding System
-Package: hasan-client-onboarding-v3.0.zip ([https://github.com/mdshasan/Plugins-and-themes/blob/main/hasan-client-onboarding-v3.0.zip](https://github.com/mdshasan/Plugins-and-themes/blob/main/hasan-client-onboarding-v3.0.zip))
 
-A streamlined intake and discovery plugin built to handle the initial phases of web development contracts. Facilitates structured requirements gathering, project scoping, and standardized intake questionnaires directly within the administrative panel.
-
-Core Function: Client intake automation, scoping workflows, requirement documentation
-
-3. Client Project Dashboard
-Package: hasan-client-project-dashboard-v1.3.zip ([https://github.com/mdshasan/Plugins-and-themes/blob/main/hasan-client-project-dashboard-v1.3.zip](https://github.com/mdshasan/Plugins-and-themes/blob/main/hasan-client-project-dashboard-v1.3.zip))
-
-A centralized client portal plugin providing transparent, real-time tracking for ongoing development projects. Consolidates milestone progression, delivery schedules, staging links, and file assets into a unified client-facing interface.
-
-Core Function: Milestone tracking, client status portal, communication management
-
-4. NovaPress Core
+2. NovaPress Core
 Package: novapress-core.zip ([https://github.com/mdshasan/Plugins-and-themes/blob/main/novapress-core.zip](https://github.com/mdshasan/Plugins-and-themes/blob/main/novapress-core.zip))
 
 A modular backend engine designed to manage structured business directories. Illustrates robust plugin architecture, secure WordPress Hooks (actions/filters), custom administrative interfaces, and modular shortcode-driven rendering.
 
 Stack: WordPress Plugin API, PHP, Custom Post Types, Admin UI, Shortcode API
 
-5. StateKeeper
+3. StateKeeper
 Package: statekeeper-v2.4.0.zip ([https://github.com/mdshasan/Plugins-and-themes/blob/main/statekeeper-v2.4.0.zip](https://github.com/mdshasan/Plugins-and-themes/blob/main/statekeeper-v2.4.0.zip))
 
 An integrity monitoring and targeted file-recovery utility for WordPress administrators. Tracks unauthorized file mutations, flags anomalous updates via scheduled jobs, and enables granular restoration from verified snapshots without full-site downtime or overwriting untouched data.
